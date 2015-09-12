@@ -4,6 +4,7 @@
 * Due: 9/14 10AM
 
 
+TESTING A CHANGE WOOP
 The goal of this assignment is for you to set up Microsoft Azure.
 
 Many of the assignments in this class will use Microsoft's cloud computing
