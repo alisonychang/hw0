@@ -6,7 +6,7 @@ counter = 0
 for line in csv_file:
 	if 'single malt scotch' in line.lower():
 		counter += 1
-print counter
+print 'Number of lines with Single Malt Scotch: %d' % counter
 
 csv_file.close()
 
