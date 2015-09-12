@@ -9,4 +9,3 @@ for line in csv_file:
 print 'Number of lines with Single Malt Scotch: %d' % counter
 
 csv_file.close()
-
